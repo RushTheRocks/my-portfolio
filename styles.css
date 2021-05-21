@@ -23,3 +23,8 @@ justify-content: space-evenly;
     display:flex;
     justify-content: flex-end;
 }
+
+body{
+
+background-color: #808080
+}
